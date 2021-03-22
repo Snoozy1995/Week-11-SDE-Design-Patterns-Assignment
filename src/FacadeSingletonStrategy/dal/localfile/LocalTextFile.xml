@@ -1,0 +1,18 @@
+<messages>
+  <FacadeSingletonStrategy.be.Message>
+    <id>1</id>
+    <text>Test5</text>
+  </FacadeSingletonStrategy.be.Message>
+  <FacadeSingletonStrategy.be.Message>
+    <id>1</id>
+    <text>Test2</text>
+  </FacadeSingletonStrategy.be.Message>
+  <FacadeSingletonStrategy.be.Message>
+    <id>1</id>
+    <text>Test1</text>
+  </FacadeSingletonStrategy.be.Message>
+  <FacadeSingletonStrategy.be.Message>
+    <id>1</id>
+    <text>Test3</text>
+  </FacadeSingletonStrategy.be.Message>
+</messages>
